@@ -39,19 +39,19 @@ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Bᴜᴛᴛᴏɴ & Mᴜʟᴛɪᴘʟᴇs Pᴏs�
 
     ABOUT_TXT = """<b>
 ➥ ᴍy ɴᴀᴍᴇ : {}
-➥ Pʀᴏɢʀᴀᴍᴇʀ : <a href=hps://t.me/Snowball_Official>Ditu ❄️</a> 
-➥ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=hs://t.me/Kdramaland>Lᴀɴᴅ</a>
-➥ Lɪʙʀᴀʀy : <a href=tps://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
-➥ Lᴀɴɢᴜᴀɢᴇ: <a href=ps://www.python.org>Pyᴛʜᴏɴ 3</a>
-➥ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=ps://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-➥ ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=hs://dashboard.heroku.com>Heroku</a>
+➥ Pʀᴏɢʀᴀᴍᴇʀ : <a href=hps://t.me/Sall_Oal>Ditu ❄️</a> 
+➥ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=hs://t.me/Kand>Lᴀɴᴅ</a>
+➥ Lɪʙʀᴀʀy : <a href=tps://hub.com/pygram>Pyʀᴏɢʀᴀᴍ</a>
+➥ Lᴀɴɢᴜᴀɢᴇ: <a href=ps://www.thon.org>Pyᴛʜᴏɴ 3</a>
+➥ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=ps://cloud.mdb.com>Mᴏɴɢᴏ DB</a>
+➥ ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=hs://oard.hoku.com>Heroku</a>
 ➥ ᴠᴇʀsɪᴏɴ : v1.0.0
 """
 
     HELP_TXT = """
 Tʜɪs Bᴏᴛ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ Tᴏ Sᴇɴᴅ Pᴏsᴛs Tᴏ Yᴏᴜʀ Mᴜʟᴛɪᴘʟᴇ Cʜᴀɴɴᴇʟs
 
-❗ Dᴇᴠᴇʟᴏᴘᴇʀ :- <a href=hps://t.me/Snowball_official>Ditu ❄️</a>
+❗ Dᴇᴠᴇʟᴏᴘᴇʀ :- <a href=hps://t.me/wball_ial>Ditu ❄️</a>
 """
 
     STATS_TXT = """
