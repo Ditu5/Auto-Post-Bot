@@ -18,9 +18,9 @@ async def start(client: Client, message: Message):
     user = message.from_user
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton(
-            '⛅ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Kdramaland'),
+            '⛅ ᴜᴘᴅᴀᴛᴇs', url='httsKdramaland'),
         InlineKeyboardButton(
-            '🌨️ sᴜᴘᴘᴏʀᴛ', url='https://t.me/SnowDevs')
+            '🌨️ sᴜᴘᴘᴏʀᴛ', url='httpwDevs')
     ], [
         InlineKeyboardButton('• ᴀʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('• ʜᴇʟᴘ', callback_data='help')
